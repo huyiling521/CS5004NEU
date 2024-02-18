@@ -1,0 +1,12 @@
+The main() function successfully creates the two Point3D objects and computes the distance.
+When the elapsed time is 5, it runs out the result;
+when the elapsed time is 0, it catches exception and print out the message.
+
+Here’s the information in the console:
+
+
+Displacement = 1.7320508075688772
+Prof. Keith is on the move! His Velocity =0.34641016151377546
+Encountered an error: The elapsed time cannot be 0 or less than 0.
+
+Process finished with exit code 0
