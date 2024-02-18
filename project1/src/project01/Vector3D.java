@@ -77,7 +77,7 @@ public class Vector3D {
         if (!isValidVector(v) || !isValidVector(u))
             throw new IllegalStateException("There exists invalid vector, the computation cannot be completed.");
         double cos = v.dotProduct(u) / (v.getMagnitude() * u.getMagnitude());
-        return Math.toDegrees(cos);
+        return Math.toDegrees(Math.acos(cos));
     }
 
     /**
@@ -98,7 +98,7 @@ public class Vector3D {
      * @return true if the vector is valid, otherwise false
      */
     private static boolean isValidVector(Vector3D v) {
-        return v.x != 0 || v.y != 0 || v.z != 0;
+        return v.getMagnitude() != 0;
     }
 
     /**

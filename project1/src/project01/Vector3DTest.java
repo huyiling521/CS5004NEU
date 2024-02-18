@@ -67,7 +67,11 @@ class Vector3DTest {
             Vector3D.angleBetween(this.v, test);
         });
         assertEquals("There exists invalid vector, the computation cannot be completed.", thrown.getMessage());
-        assertEquals(Math.toDegrees(9/(Math.sqrt(14) * Math.sqrt(189))), Vector3D.angleBetween(this.v, this.u));
+        assertEquals(Math.toDegrees(Math.acos(9/(Math.sqrt(14) * Math.sqrt(189)))), Vector3D.angleBetween(this.v, this.u));
+
+        Vector3D v2 = new Vector3D(0,0,1);
+        Vector3D u2 = new Vector3D(1,0,0);
+        assertEquals(90, Vector3D.angleBetween(v2,u2));
     }
 
     @Test

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e153502-a0d8-44d5-a4e7-9104482da614" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/bank/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/bank/CheckingAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/bank/IAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/bank/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/src/bank/SavingsAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/src/project01/Vector3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project1/src/project01/Vector3DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Lab 2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab 2/Lab 2.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2bWfIZTOD9Ag0LvpaeQa0oeTTMa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e153502-a0d8-44d5-a4e7-9104482da614" name="Changes" comment="" />
+      <created>1706335676948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706335676948</updated>
+    </task>
+    <servers />
+  </component>
+</project>

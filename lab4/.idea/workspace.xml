@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="274bea3d-9059-49ed-ad41-3db2a3b656aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artists/IArtist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artists/Poet.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2bl6wWGLLmvhKUKJVzPjYcezGUm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;artists.AbstractArtist&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU/lab4/test&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU/lab4&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="artists.AbstractArtist" />
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="artists" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+      <recent name="artists" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.PoetTest">
+    <configuration name="ActorTest,testGetGenresAsSingleString and 5 more (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="artists.ActorTest,testGetGenresAsSingleString" />
+        <pattern testClass="artists.ActorTest,testGetAge" />
+        <pattern testClass="artists.ActorTest,testGetName" />
+        <pattern testClass="artists.ActorTest,testGetGenres" />
+        <pattern testClass="artists.ActorTest,testReceiveAward" />
+        <pattern testClass="artists.ActorTest,testGetAwards" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActorTest,testGetGenresAsSingleString and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="artists.ActorTest,testGetGenresAsSingleString" />
+        <pattern testClass="artists.ActorTest,testGetAge" />
+        <pattern testClass="artists.ActorTest,testGetName" />
+        <pattern testClass="artists.ActorTest,testGetGenres" />
+        <pattern testClass="artists.ActorTest,testReceiveAward" />
+        <pattern testClass="artists.ActorTest,testGetAwards" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActorTest,testGetGenresAsSingleString and 5 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="artists.ActorTest,testGetGenresAsSingleString" />
+        <pattern testClass="artists.ActorTest,testGetAge" />
+        <pattern testClass="artists.ActorTest,testGetName" />
+        <pattern testClass="artists.ActorTest,testGetGenres" />
+        <pattern testClass="artists.ActorTest,testReceiveAward" />
+        <pattern testClass="artists.ActorTest,testGetAwards" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IArtisitTest" type="JUnit" factoryName="JUnit">
+      <module name="lab4" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IArtistTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="artists.ActorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="artists" />
+      <option name="MAIN_CLASS_NAME" value="artists.IArtistTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicianTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="artists.ActorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="artists" />
+      <option name="MAIN_CLASS_NAME" value="artists.MusicianTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PoetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="artists.ActorTest" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="artists" />
+      <option name="MAIN_CLASS_NAME" value="artists.PoetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.IArtisitTest" />
+      <item itemvalue="JUnit.ActorTest,testGetGenresAsSingleString and 5 more" />
+      <item itemvalue="JUnit.ActorTest,testGetGenresAsSingleString and 5 more (1)" />
+      <item itemvalue="JUnit.PoetTest" />
+      <item itemvalue="JUnit.MusicianTest" />
+      <item itemvalue="JUnit.IArtistTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PoetTest" />
+        <item itemvalue="JUnit.MusicianTest" />
+        <item itemvalue="JUnit.ActorTest,testGetGenresAsSingleString and 5 more (1)" />
+        <item itemvalue="JUnit.ActorTest,testGetGenresAsSingleString and 5 more" />
+        <item itemvalue="JUnit.IArtistTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="274bea3d-9059-49ed-ad41-3db2a3b656aa" name="Changes" comment="" />
+      <created>1706777560499</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706777560499</updated>
+    </task>
+    <servers />
+  </component>
+</project>

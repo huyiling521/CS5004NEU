@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="11b62366-4f52-457b-810b-b29d4a30ec68" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../Lab 2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/project01/Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project1/project01/Vector3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project1/project01/Vector3DTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project1/project01/Vector3DTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project01/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project01/Vector3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/project01/Vector3DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/project01/Vector3DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Vector3DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Vector3DTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -32,24 +39,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU/project1",
-    "project.structure.last.edited": "SDKs",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.gutterIcons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU/project1&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -83,16 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vector3DTest.getY" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="project1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Vector3DTest" />
-      <option name="METHOD_NAME" value="getY" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Vector3DTest.getZ" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="project1" />
       <option name="PACKAGE_NAME" value="" />
@@ -113,6 +110,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vector3DTest.testAngleBetween" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="project1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="project01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="project01" />
+      <option name="MAIN_CLASS_NAME" value="project01.Vector3DTest" />
+      <option name="METHOD_NAME" value="testAngleBetween" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="JUnit" factoryName="JUnit">
       <module name="project1" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -126,10 +139,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Vector3DTest (1)" />
+        <item itemvalue="JUnit.Vector3DTest.testAngleBetween" />
         <item itemvalue="JUnit.Vector3DTest" />
         <item itemvalue="JUnit.Vector3DTest.normalize" />
         <item itemvalue="JUnit.Vector3DTest.getZ" />
-        <item itemvalue="JUnit.Vector3DTest.getY" />
       </list>
     </recent_temporary>
   </component>
@@ -143,6 +156,11 @@
       <updated>1706301175424</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

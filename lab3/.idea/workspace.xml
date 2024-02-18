@@ -5,18 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa934b1b-7434-491e-87d5-849d1addbc23" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/CheckingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/CheckingAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/IAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/SavingsAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bank/SavingsAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab 2" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab 2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/out/production/project1/project01/Vector3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/out/production/project1/project01/Vector3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/out/production/project1/project01/Vector3DTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/out/production/project1/project01/Vector3DTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/src/project01/Vector3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/src/project01/Vector3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/src/project01/Vector3DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/src/project01/Vector3DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project1/test/Vector3DTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project1/test/Vector3DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/src/chess/AbstractChessPiece.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/src/chess/AbstractChessPiece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/src/chess/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/src/chess/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/src/chess/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/src/chess/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/src/chess/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/src/chess/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project2/src/chess/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../project2/src/chess/Queen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,6 +54,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
+    "last_opened_file_path": "/Users/nina/Library/CloudStorage/OneDrive-PennO365/24Spring/CS5004/CS5004NEU/lab3",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
